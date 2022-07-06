@@ -1,0 +1,1 @@
+console.log("Arhivo 6 creado por Jorge");
